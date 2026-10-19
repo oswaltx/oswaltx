@@ -7,6 +7,7 @@ around studying, volunteering and self-hosting.
 - 🗺️ [**Benemap**](https://benemap.org): a volunteering map for Cologne ([code](https://github.com/oswaltx/BeneMap))
 - 🎓 [**fachschaften.com**](https://fachschaften.com): a platform for student councils (Fachschaften)
 - 🧭 [**Moral-o-Mat**](https://moral-o-mat.de): your values profile from a validated questionnaire (MFQ-2), as a `moral.md` for AI agents ([code](https://github.com/oswaltx/moral-o-mat)). **Ideas for questionnaires and tests are very welcome**: [suggest one](https://github.com/oswaltx/moral-o-mat/issues/new/choose)
+- 🚲 [**greenWave Maps**](https://github.com/oswaltx/greenwave-maps): offline bike navigation that tells you how fast to ride to catch the next light on green (CoMaps fork, beta)
 
 **Tools I made**
 | Project | What it does |
@@ -16,6 +17,6 @@ around studying, volunteering and self-hosting.
 
 **Also contributing to** [MUNify CHASE](https://github.com/DeutscheModelUnitedNations/munify-chase), conference software for Model United Nations.
 
-**Stack I use a lot:** Kotlin · Spring Boot · TypeScript · Astro · Svelte · Python · GTK 4 · self-hosting
+**Stack I use a lot:** Kotlin · Kotlin Multiplatform · Spring Boot · TypeScript · Astro · Svelte · Python · GTK 4 · self-hosting
 
 🌐 [oswalt.eu](https://oswalt.eu)
